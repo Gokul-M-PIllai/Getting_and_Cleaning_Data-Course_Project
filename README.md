@@ -4,7 +4,9 @@ One of the most exciting areas in all of data science right now is wearable comp
 The purpose of this project is to work with the data collected from the accelerometers and gyroscope of the wearable device Samsung Galaxy S smartphone and to prepare tidy data that can be used for later analysis.
 
 ## Data Set Information:
+The Data Set bring used has been obtained from , [Human Activity Recognition database](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
+### Study
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured.  
 
 ### Attribute Information:
