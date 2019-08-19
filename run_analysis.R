@@ -98,7 +98,7 @@ colnames(MergeDS) <- c("SubjectID","ActivityID",VariableNames)
 ## Mean & Std deviation Columns to Select 
 ##################################################
 
-MeasureColumns <- grep('[Mm]ean|[Ss]td',colnames(MergeDS),value = TRUE)
+MeasureColumns <- grep('mean|std',colnames(MergeDS),value = TRUE)
 Column2Select <- c("SubjectID","ActivityID",MeasureColumns)
 
 ## Extract the needed Measurements 
