@@ -46,4 +46,5 @@ Rscript run_analysis.R
 ```R
 source("run_analysis.R")
 ```
-
+### Code Output
+The code creates a Tidy DataSet ***ActivityTrackerDS*** and writes to file ***"tidyData_ActivityTracker.txt"*** followed by a message for the file creation.
