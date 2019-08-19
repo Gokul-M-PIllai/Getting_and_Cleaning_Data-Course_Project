@@ -27,6 +27,8 @@ run_analysis.R does the following-
 > 5. creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 > 6. Writes the tidy data set to file ***tidyData_ActivityTracker.txt***
 
+The Attached *tidyData_ActivityTracker.txt* is created by running the script on *R version 3.6.0 (2019-04-26)*
+
 ## Getting started
 ### Prerequisites
 The R libraries needed for the script
