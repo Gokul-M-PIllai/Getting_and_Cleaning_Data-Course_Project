@@ -1,9 +1,9 @@
-# Coursera's Course Project - Getting & Cleaning Data
+# Coursera's Course Project - ***Getting & Cleaning Data***
 One of the most exciting areas in all of data science right now is wearable computing - for example [this article](<http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/>). Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
 
 The purpose of this project is to work with the data collected from the accelerometers and gyroscope of the wearable device Samsung Galaxy S smartphone and to prepare tidy data that can be used for later analysis.
 
-## Data Set Information:
+## Source Data Set Information:
 The Data Set bring used has been obtained from , [Human Activity Recognition database](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 ### Study
